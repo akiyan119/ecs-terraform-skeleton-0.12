@@ -1,0 +1,11 @@
+service-name         = "example"
+cpu                  = 256
+memory               = 512
+host-zone-id         = ""
+domain-name          = "www.example.com"
+domain-name-for-cert = "*.example.com."
+name-for-zone        = "example.com."
+instance-class       = "db.t2.micro"
+rds-name             = "example"
+rds-user             = "example"
+rds-password         = "example123"
